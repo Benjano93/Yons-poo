@@ -1,0 +1,30 @@
+/* yon*/
+*{
+    background-image: url(./yons\ poop\ 2.png);
+}
+#yon{
+    border: 5px solid palevioletred;
+    
+}
+p{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    font-weight: 900;
+    font: size 150%;
+    background-color: aqua;
+
+}
+h1{
+
+    text-transform: capitalize;
+    font-weight: 900;
+    text-align: center;
+}
+div{
+    width: 50%;
+    margin: 25%;
+}
+footer{
+    text-align: center;
+}
